@@ -17,11 +17,14 @@ The 2 Types of Recommendation System<br />
 
 ## Dataset
 * Detection system<br/>
-We use a dataset already available on kaggle in [here](https://www.kaggle.com/datasets/shayanriyaz/riceleafs ).
+We use a dataset already available on kaggle
+  * [Dataset 1](https://www.kaggle.com/datasets/shayanriyaz/riceleafs ).
+  * [Dataset 2](https://www.kaggle.com/datasets/chandrug/riceleafdisease)
 * Recommendation system<br/>
 We do data scraping on the Tokopedia website. We take the name, review, rating, price, weight, seller's address and pictures of pesticide products
 we use chrome extension Web Scraper - Free Web Scraping
 0.6.4 to do scraping, that you cand find [here](https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn?hl=id).
 
 ## Reference
+* Recommendation system in [here](https://www.researchgate.net/publication/349409277_An_effective_feature_extraction_method_for_rice_leaf_disease_classification)
 * Build Content-based recomendation system in [here](https://www.kdnuggets.com/2020/07/building-content-based-book-recommendation-engine.html)
