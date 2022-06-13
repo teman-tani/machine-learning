@@ -16,6 +16,8 @@ Inception V3 has a size of 92 MB, entered as top-1
 accuracy is 0.779 and top-5 accuracy is 0.931 with parameters
 of 23,851,784
 
+We save our model.h5 and put it into the google drive [link](https://drive.google.com/file/d/194Aq8VsG872lwMThfZqWkJnKZCp46oSq/view?usp=sharing)
+
 ## Pesticide recommendation system
 The 2 Types of Recommendation System<br />
   * Collaborative Filtering <br />
